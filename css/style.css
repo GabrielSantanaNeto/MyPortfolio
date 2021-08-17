@@ -2,31 +2,97 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    height: 100%;
 }
 
 
 /* header #############################################*/
 header{
-    background-color: #254194;
-    width: 100%;    
-    padding: 0;
+    background-color: #182A61;/*#182A61 */
+    width: 100%;  
+    height: 10%;  
+    padding: 1.8%;
     text-align: center;
-  
+    border-bottom: #5D9416 solid 2px;
     box-sizing: border-box;
 
 }
-.header-bottom{
-    width: 100%;
-    height: 5px;
-    background-color: black;
-}
+
 header a{
 
     display: inline-block;
     color: #FFF;
     text-decoration: none;
-    font-size: 1.2rem;
-    padding: 1.5% 2%;
+    font-size:100%;
+    padding: 0% 2%;
     font-family: 'Press Start 2P', cursive;
+    text-align: center ;
+}
+header a:hover{
+    color: #5D9416;
+}
+.logo{
+    float: left;
+    color: #D15C47;
+    font-size:120%;
+}
+.logo:hover{
+    color: #5D9416;
+    
 }
 /* Container #############################################*/
+.container-main{
+    background-color: #4D4D4D;
+    width: 100%;
+    height: 80%;
+}
+.sidebar{
+    display: inline;
+    float: left;
+    background-color:#595350;
+    width: 12%;
+    height: 100%;
+}
+.article{
+    display: inline-block;
+    width: 74%;
+    height: auto;
+    max-height: 96%;
+    background-color: #CCC;
+    margin: 1% 1%;
+    padding: 1%;
+    overflow: auto;
+    text-align:justify;
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.article h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 2rem;
+}
+.article P {
+    text-indent: 4%;
+}
+
+
+
+.marketing{
+    display: inline;
+    float: right;
+    background-color: #595350;
+    width: 11%;
+    height: 80%;
+    margin-top: 3%;
+}
+
+
+
+/* Footer #############################################*/
+footer{
+    width: 100%;
+    height: 10%;
+    background-color: #254194;
+    margin-bottom: 0px;
+}

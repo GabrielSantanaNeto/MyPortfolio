@@ -3,7 +3,7 @@
          Tela da plataforma                   
 
 +--------------------------------------------+
-| LOGO    Home - Projects - Contato -Sobre   |
+| LOGO        Projects - Contato -Sobre      |
 +--------+-----------------------------------|
 |        |                                   |
 |    S   |                            _______|
@@ -24,3 +24,11 @@ Essa é uma plataforma para receber todos os projetos de aprendizado.
 
 cores:
 #254194
+#0B1A47
+#944734
+#5D9416
+#2E470E
+
+
+Fonts:
+'Press Start 2P'
