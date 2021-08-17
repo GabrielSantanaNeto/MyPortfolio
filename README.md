@@ -3,7 +3,7 @@
          Tela da plataforma                   
 
 +--------------------------------------------+
-| LOGO        Projects - Contato -Sobre      |
+| LOGO        Projects - MyForum - About     |
 +--------+-----------------------------------|
 |        |                                   |
 |    S   |                            _______|
