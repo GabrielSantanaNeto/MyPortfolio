@@ -33,4 +33,4 @@ cores:
 Fonts:
 'Press Start 2P'
 
-token ok cras
+token ok cras pull
