@@ -34,3 +34,4 @@ Fonts:
 'Press Start 2P'
 
 token ok cras pull push
+tentativa sem token
